@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "DolphySMP-gaps.aternos.me ",
+    "port": 48991,
+    "version":26.3 ""
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Dolphyz1!",
         "I like to play Minecraft!"
       ]
     },
@@ -47,7 +47,7 @@
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk":true {
       "enabled": true,
       "radius": 4,
       "speed": 3000
